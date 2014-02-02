@@ -1,0 +1,5 @@
+component {54cf64b0-8c5a-11e3-baa8-0800200c9a66} components/jbOverrideProtocols.js
+contract @instantbird.org/purple/jabbim;1 {54cf64b0-8c5a-11e3-baa8-0800200c9a66}
+category im-protocol-plugin prpl-jabbim @instantbird.org/purple/jabbim;1
+
+skin prpl-jabbim     classic/1.0 chrome/skin/
