@@ -10,12 +10,6 @@ ToDo
 ###Developer Comments 
 ToDo
 
-###Donate Bitcoin:
-      
-      1MTd8fa6QrZLSST2uEiuwhLJNjeiGoUe5s
-      
-_Thank you very much for your generosity! -alexandersalas_
-
 ###Preview Screenshots
 
 ![Jabbim](https://raw.github.com/alexsalas/instantbird-protocol-jabbim/master/aio/preview-1.png "Jabbim")<br>
@@ -42,5 +36,8 @@ ToDo
 ###Privacy Policy 
 ToDo
 
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/instantbird-protocol-jabbim/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+###Donate Bitcoin:
+      
+      1MTd8fa6QrZLSST2uEiuwhLJNjeiGoUe5s
+      
+_Thank you very much for your generosity! -alexandersalas_
