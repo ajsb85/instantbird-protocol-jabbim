@@ -5,12 +5,20 @@
 		<em:unpack>true</em:unpack>
 		<em:name>Jabbim Protocol</em:name>
 		<em:version>1.0</em:version>
-		<em:description>Assists to setup a chat account for Jabbim.</em:description>
 		<em:creator>Alexander Salas</em:creator>
 		<em:translator>Fatma Youssef</em:translator>
 		<em:homepageURL>http://alexandersalas.name/</em:homepageURL>
 		<em:iconURL>chrome://prpl-jabbim/skin/icon48.png</em:iconURL>
 		<em:icon64URL>chrome://prpl-jabbim/skin/icon64.png</em:icon64URL>
+		<em:localized>
+			<Description>
+				<em:locale>en-US</em:locale>
+				<em:name>Jabbim Protocol</em:name>
+				<em:creator>Alexander Salas</em:creator>
+				<em:translator>Fatma Youssef</em:translator>
+				<em:description>Assists to setup a chat account for Jabbim.</em:description>
+			</Description>
+		</em:localized>
 		<em:targetApplication>
 			<Description>
 				<em:id>{33cb9019-c295-46dd-be21-8c4936574bee}</em:id>
